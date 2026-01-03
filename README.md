@@ -1,19 +1,9 @@
-<div align="center">
-
-# Markus Herhoffer
-
-<img src="https://herhoffer.net/assets/images/profile.jpg" alt="Markus Herhoffer" width="200" style="border-radius: 50%;" />
-
----
-
 ## About Me
 
-I'm the CTO behind the cutting-edge Digital Thread platform of [**explore
-**](https://explore.de). I'm also a music enthusiast, constantly exploring new
+I'm the CTO behind the cutting-edge Digital Thread platform of [**explore**](https://explore.de). 
+I'm also a music enthusiast, constantly exploring new
 sounds and pushing boundaries between [**Metal**](https://opus-irae.com) and [**Neo Classic**](https://vrsnsmv.com). 
 I also co-founded the [**Blast of Eternity Festival**](https://blastofeternity.de) and run a [**podcast**](https://codeculture.podigee.io).
-
----
 
 ## 💼 Professional Work
 
@@ -26,8 +16,6 @@ manage product data and lifecycle information.
 
 Technische Hochschule Ingolstadt Sharing industry knowledge and experience with
 the next generation of tech professionals.
-
----
 
 ## 🎵 Musical Works
 
@@ -48,8 +36,6 @@ classical and dark ambient
 📅 **Music Festival Co-Founder** - Curating exceptional metal and alternative
 music experiences
 
----
-
 ## 🎙️ Code Culture Podcast
 
 Co-hosting the [**Code Culture Podcast**](https://codeculture.podigee.io) with
@@ -57,11 +43,8 @@ Lucas Rott - a German podcast diving deep into code and nerd culture, exploring
 technology, development practices, and the culture that shapes our digital
 world.
 
----
 
 ## 🌐 Connect With Me
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/markus-herhoffer)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/d1351r43)
